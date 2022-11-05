@@ -1,13 +1,6 @@
 # Deployed test on Netlify
 https://poetic-dasik-d4a180.netlify.app
 
-# Netlify template for Tome projects
-
-This project is a great place to start for building new Tome projects on Netlify.
-
-To get started, click the "Deploy to netlify" button above and deploy a copy of
-this template to Netlify.
-
 # Requirements
 
 - PHP 7+
