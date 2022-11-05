@@ -1,4 +1,5 @@
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/drupal-tome/netlify-template)
+# Deployed test on Netlify
+https://poetic-dasik-d4a180.netlify.app
 
 # Netlify template for Tome projects
 
